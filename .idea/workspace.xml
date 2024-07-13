@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ca702b3-1bdf-41fa-973d-6e0851302e10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/dao/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/dao/jdbc/AbstractDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/dao/jdbc/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/dao/jdbc/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/dao/jdbc/impl/PersonDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/logic/PersonLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/testing/TestConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/ui/controller/ConsoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/ui/model/PersonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swp4/koch/ue05/ex1/app/ui/view/ConsoleView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DerbyStart.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TestConsole.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Tools/db-derby-10.17.1.0-bin/db-derby-10.17.1.0-bin/lib/derbytools.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "derby"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestConsole">
+    <configuration name="DerbyStart" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.apache.derby.drda.NetworkServerControl" />
+      <module name="SWE4_Koch_UE06" />
+      <option name="PROGRAM_PARAMETERS" value="start -h localhost -p 1527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swp4.koch.ue05.ex1.app.testing.TestConsole" />
+      <module name="SWE4_Koch_UE06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swp4.koch.ue05.ex1.app.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DerbyStart" />
+      <item itemvalue="Application.TestConsole" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestConsole" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca702b3-1bdf-41fa-973d-6e0851302e10" name="Changes" comment="" />
+      <created>1720538076739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720538076739</updated>
+      <workItem from="1720538077823" duration="6061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
